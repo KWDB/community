@@ -8,7 +8,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 
 ## 社区组织架构
 
-[社区组织架构图](https://gitee.com/kaiwudb-opensource/community/blob/master/Figures/Organization_structure.png)
+![社区组织架构图](/Figures/Organization_structure.png)
 
 
 - **Council(社区理事会)**
@@ -18,7 +18,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 ①指导社区的发展方向，制定长期发展规划和实施指导意见。  
 ②审视社区各种委员会工作，给出指导意见。
 <br>③制定战略合作，促进社区生态提升社区活力。
-<br>详细信息见[社区理事会](https://gitee.com/kaiwudb-opensource/community/blob/master/Council.md)介绍。
+<br>详细信息见[社区理事会](Council.md)介绍。
 
 - **(Tech committee)技术委员会**
 
