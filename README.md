@@ -25,7 +25,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 <br>①决策社区技术的发展愿景和技术创新，保证社区具有持续的技术竞争力。
 <br>②落实社区日常开发工作，保证社区发行版高质量发布。
 <br>③决策社区 SIG 的成立、撤销、合并等事务，维护其日常运作。
-<br>详细信息见[技术委员会](![](https://gitee.com/kaiwudb/Community/Tech _committee.md))介绍。
+<br>详细信息见[技术委员会](![](https://gitee.com/kaiwudb/Community/Tech_committee.md))介绍。
 
 - **(User committee)用户委员会**
 
