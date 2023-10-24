@@ -1,4 +1,4 @@
-#KaiwuDB 开源社区导览
+# KaiwuDB 开源社区导览
 
 欢迎来到KaiwuDB社区。
 
@@ -6,7 +6,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 
 本仓库（Community）包含了关于KaiwuDB社区的社区治理、社区活动、开发者贡献指南、沟通交流指南等信息。
 
-##社区组织架构
+## 社区组织架构
 
 ![社区组织架构图](https://gitee.com/kaiwudb/Community/Figures/Organization_structure.png)
 
@@ -43,7 +43,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 <br>①针对特定的一个或多个主题建立社区项目。
 <br>②推动各项目输出交付成果。
 <br>详细信息见[专项兴趣小组](![](https://gitee.com/kaiwudb/Community/SIGs.md))介绍。
-##社区角色
+## 社区角色
 - **Contributor（贡献者）**
 <br>Contributor（贡献者）是向开源项目的存储库贡献代码或文档的人。
 <br>任何有注册账号，并签署本社区CLA协议成功的用户都可以成为Contributor
@@ -62,7 +62,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 - **Ambassador(社区大使)**
 <br>负责开展各种市场营销活动，组织KaiwuDB数据库技术、用户案例、解决方案和社区的宣传活动。作为开源社区和用户的沟通桥梁，负责宣传最新的技术进展，并从用户获取反馈。
 如何成为[社区大使](https://gitee.com/kaiwudb/Community/User_committee.md)？
-##如何下载资源
+## 如何下载资源
 - **文档下载**
 
 community仓库拥有本项目最新的社区文档，docs仓库拥有本项目最新的开发文档。所有用户均可下载。
@@ -74,7 +74,7 @@ community仓库拥有本项目最新的社区文档，docs仓库拥有本项目�
 - **编译好的二进制可执行文件下载**
 
 仅希望使用本项目产品的用户可以直接下载社区编译好的二进制可执行文件。
-##如何贡献代码
+## 如何贡献代码
 ![贡献流程图](https://gitee.com/kaiwudb/Community/Figures/KaiwuDB_contribute_process.png)
 
 1.[**注册Gitee账号**](https://gitee.com/signup?redirect_to_url=%2F)（如果已有，则忽略此步骤）
@@ -117,7 +117,7 @@ community仓库拥有本项目最新的社区文档，docs仓库拥有本项目�
 
 详见[贡献流程](https://gitee.com/kaiwudb/Community/Contribute_process.md)
 
-##如何提报问题与建议
+## 如何提报问题与建议
 - **代码或文档Bug（问题）登记**
 
 用户在阅读文档、代码，或者修改代码中发现的任何问题，可以发邮件到bug@openKaiwuDB.com的方式通知社区，社区会尽快安排核实解决。
