@@ -8,7 +8,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 
 ## 社区组织架构
 
-![社区组织架构图](https://gitee.com/kaiwudb-opensource/community/Figures/Organization_structure.png)
+![社区组织架构图](https://gitee.com/kaiwudb-opensource/community/blob/master/Figures/Organization_structure.png)
 
 
 - **Council(社区理事会)**
@@ -18,7 +18,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 ①指导社区的发展方向，制定长期发展规划和实施指导意见。  
 ②审视社区各种委员会工作，给出指导意见。
 <br>③制定战略合作，促进社区生态提升社区活力。
-<br>详细信息见[社区理事会](![](https://gitee.com/kaiwudb-opensource/community/Council.md))介绍。
+<br>详细信息见[社区理事会](![](https://gitee.com/kaiwudb-opensource/community/blob/master/Council.md))介绍。
 
 - **(Tech committee)技术委员会**
 
@@ -26,7 +26,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 <br>①决策社区技术的发展愿景和技术创新，保证社区具有持续的技术竞争力。
 <br>②落实社区日常开发工作，保证社区发行版高质量发布。
 <br>③决策社区 SIG 的成立、撤销、合并等事务，维护其日常运作。
-<br>详细信息见[技术委员会](![](https://gitee.com/kaiwudb-opensource/community/Tech_committee.md))介绍。
+<br>详细信息见[技术委员会](![](https://gitee.com/kaiwudb-opensource/community/blob/master/Tech_committee.md))介绍。
 
 - **(User committee)用户委员会**
 
@@ -34,7 +34,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 <br>①收集用户需求，制定发展规划。
 <br>②案例整理与品牌推广，提升产品影响力。
 <br>③构建社区生态，协同厂商与开发者形成传播合力。
-<br>详细信息见[用户委员会](![](https://gitee.com/kaiwudb-opensource/community/User_committee.md))介绍。
+<br>详细信息见[用户委员会](![](https://gitee.com/kaiwudb-opensource/community/blob/master/User_committee.md))介绍。
 
 - **(SIGs)专项兴趣小组**
 
@@ -42,7 +42,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 <br>每个小组负责：
 <br>①针对特定的一个或多个主题建立社区项目。
 <br>②推动各项目输出交付成果。
-<br>详细信息见[专项兴趣小组](![](https://gitee.com/kaiwudb-opensource/community/SIGs.md))介绍。
+<br>详细信息见[专项兴趣小组](![](https://gitee.com/kaiwudb-opensource/community/blob/master/SIGs.md))介绍。
 ## 社区角色
 - **Contributor（贡献者）**
 <br>Contributor（贡献者）是向开源项目的存储库贡献代码或文档的人。
@@ -50,18 +50,18 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 
 - **Committer（提交者）**
 <br>Committer（提交者）一个始终如一的贡献者（Contributor），通常是项目的主要开发人员，能够修改开源软件特定部分源代码，通常是负责大部分更改的人他已经被证明是项目的带头人之一，并提高了项目本身的质量，因此被视为社区中值得信赖的成员。与此同时，提交者通常负责审查贡献者（Contributor）提交的补丁，以便将其合并到项目库中。
-<br>如何成为[Committer](![](https://gitee.com/kaiwudb-opensource/community/Tech_committee.md))
+<br>如何成为[Committer](![](https://gitee.com/kaiwudb-opensource/community/blob/master/Tech_committee.md))
 
 - **Maintaner（维护者）**
 <br>Maintaner（维护者）是开源项目的领导者。负责参与构建或发布源代码的最终决策。参与各自领域内进行所有的代码审查，并对项目该领域的方向做出最终决定。以及审查Pull请求和其他贡献、发布新版本的软件、分类和处理安全修复、以及社区管理和审核。
-<br>如何成为[Maintaner](https://gitee.com/kaiwudb-opensource/community/Tech_committee.md)
+<br>如何成为[Maintaner](https://gitee.com/kaiwudb-opensource/community/blob/master/Tech_committee.md)
 
 - **Demand Specialist(需求师)**
 <br>负责收集整理用户技术和产品需求
-如何成为[需求师](https://gitee.com/kaiwudb-opensource/community/User_committee.md)？
+如何成为[需求师](https://gitee.com/kaiwudb-opensource/community/blob/master/User_committee.md)？
 - **Ambassador(社区大使)**
 <br>负责开展各种市场营销活动，组织KaiwuDB数据库技术、用户案例、解决方案和社区的宣传活动。作为开源社区和用户的沟通桥梁，负责宣传最新的技术进展，并从用户获取反馈。
-如何成为[社区大使](https://gitee.com/kaiwudb-opensource/community/User_committee.md)？
+如何成为[社区大使](https://gitee.com/kaiwudb-opensource/community/blob/master/User_committee.md)？
 ## 如何下载资源
 - **文档下载**
 
@@ -75,7 +75,7 @@ community仓库拥有本项目最新的社区文档，docs仓库拥有本项目�
 
 仅希望使用本项目产品的用户可以直接下载社区编译好的二进制可执行文件。
 ## 如何贡献代码
-![贡献流程图](https://gitee.com/kaiwudb-opensource/community/Figures/KaiwuDB_contribute_process.png)
+![贡献流程图](https://gitee.com/kaiwudb-opensource/community/blob/master/Figures/KaiwuDB_contribute_process.png)
 
 1.[**注册Gitee账号**](https://gitee.com/signup?redirect_to_url=%2F)（如果已有，则忽略此步骤）
 
@@ -115,7 +115,7 @@ community仓库拥有本项目最新的社区文档，docs仓库拥有本项目�
 11.**贡献完成**
 <br>解决Issue的代码合并或者新发现的Bug登记，贡献流程完成。
 
-详见[贡献流程](https://gitee.com/kaiwudb-opensource/community/Contribute_process.md)
+详见[贡献流程](https://gitee.com/kaiwudb-opensource/community/blob/master/Contribute_process.md)
 
 ## 如何提报问题与建议
 - **代码或文档Bug（问题）登记**
