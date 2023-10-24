@@ -7,6 +7,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 本仓库（Community）包含了关于KaiwuDB社区的社区治理、社区活动、开发者贡献指南、沟通交流指南等信息。
 
 ##社区组织架构
+
 ![社区组织架构图](https://gitee.com/kaiwudb/Community/Figures/Organization_structure.png)
 
 
