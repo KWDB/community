@@ -49,12 +49,12 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 <br>任何有注册账号，并签署本社区CLA协议成功的用户都可以成为Contributor
 
 - **Committer（提交者）**
-<br>Committer（提交者）一个始终如一的贡献者（Contributor），通常是项目的主要开发人员，能够修改开源软件特定部分源代码，通常是负责大部分更改的人他已经被证明是项目的带头人之一，并提高了项目本身的质量，因此被视为社区中值得信赖的成员。与此同时，提交者通常负责审查贡献者（Contributor）提交的补丁，以便将其合并到项目库中。
-<br>如何成为[Committer](Tech_committee.md)
+<br>Committer（提交者）是始终如一的贡献者（Contributor），通常是项目的主要开发人员，能够修改开源软件特定部分源代码，是项目的带头人之一，被视为社区中值得信赖的成员。与此同时，提交者通常负责审查贡献者（Contributor）提交的补丁，以便将其合并到项目库中。
+<br>如何成为[Committer](Tech_committee.md)？
 
 - **Maintaner（维护者）**
 <br>Maintaner（维护者）是开源项目的领导者。负责参与构建或发布源代码的最终决策。参与各自领域内进行所有的代码审查，并对项目该领域的方向做出最终决定。以及审查Pull请求和其他贡献、发布新版本的软件、分类和处理安全修复、以及社区管理和审核。
-<br>如何成为[Maintaner](Tech_committee.md)
+<br>如何成为[Maintaner](Tech_committee.md)？
 
 - **Demand Specialist(需求师)**
 <br>负责收集整理用户技术和产品需求
