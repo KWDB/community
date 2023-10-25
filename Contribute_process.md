@@ -1,5 +1,5 @@
 # KaiwuDB用户及开发者贡献流程
-![贡献流程图](Figures/KaiwuDB_contribute_process.png)
+![贡献流程图](Figures/Contribute_process.png)
 ## 1.注册Gitee
 
 KaiwuDB源代码托管在Gitee（码云）上，请参考Gitee官方文章（https://gitee.com/help/articles/4113）注册您的Gitee账户类型。
