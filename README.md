@@ -69,8 +69,8 @@ community仓库拥有本项目最新的社区文档，docs仓库拥有本项目�
 
 - **下载代码**
 
-希望阅读代码或更改代码的用户需要在此[下载](https://gitee.com/kaiwudb-opensource/kaiwudb)
-最新代码。
+希望阅读代码或更改代码的用户需要进入[KaiwuDB代码仓库](https://gitee.com/kaiwudb-opensource/kaiwudb)
+下载相应版本最新代码。
 
 - **编译好的二进制可执行文件下载**
 
