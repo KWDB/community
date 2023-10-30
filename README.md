@@ -121,7 +121,7 @@ community仓库拥有本项目最新的社区文档，docs仓库拥有本项目�
 ## 如何提报问题与建议
 - **Bug（问题）和需求登记**
 
-在阅读文档、代码，修改代码和使用中发现的任何问题或需求，请提交到对应的仓库中，若不确定问题或需求属于那个仓库，可以吧其提交到[community](https://gitee.com/kaiwudb-opensource/community/issues)，感谢您支持，[issues提交指南](https://gitee.com/kaiwudb-opensource/community/blob/master/issues%20Submission%20Guidelines.md)。
+在阅读文档、代码，修改代码和使用中发现的任何问题或需求，请提交到对应的仓库中，若不确定问题或需求属于那个仓库，可以把其提交到[community](https://gitee.com/kaiwudb-opensource/community/issues)，感谢您支持，[issues提交指南](https://gitee.com/kaiwudb-opensource/community/blob/master/issues%20Submission%20Guidelines.md)。
 
 - **意见与建议**
 若你有任何关于本社区的意见或者建议，可以发送邮件至user@openKaiwuDB.com
