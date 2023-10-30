@@ -19,7 +19,7 @@ SIG（Special Interest Group）是指特别兴趣小组，SIG在开源社区�
 
 ## 5.选择Issue
 
-KaiwuDB有统一的**Issue列表**，该列表中的Issue状态实时更新。如果您愿意处理其中的Issue，可以将它分配给自己。在社区正式更新Issue列表之前，所有人都可以给自己分配Issue列表中的任务，即使有其他人已经在做了。
+KaiwuDB有统一的[Issue列表](https://gitee.com/organizations/kaiwudb-opensource/issues)，该列表中的Issue状态实时更新。如果您愿意处理其中的Issue，可以将它分配给自己。在社区正式更新Issue列表之前，所有人都可以给自己分配Issue列表中的任务，即使有其他人已经在做了。
 
 ## 6.解决Issue
 
