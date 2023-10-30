@@ -94,7 +94,7 @@ community仓库拥有本项目最新的社区文档，docs仓库拥有本项目�
 如果当前还没有您感兴趣的小组，您可以通过发邮件（sigs@openKaiwuDB.com）的方式来申请成立新的兴趣小组，在收到邮件后，我们会第一时间评估讨论。
 
 5.**选择Issue**
-<br>从现有的统一的[Issue列表](https://gitee.com/kaiwudb-opensource/issues)中给自己分配Issue任务，在评论区输入/assign即可。
+<br>从现有的统一的[Issue列表](https://gitee.com/organizations/kaiwudb-opensource/issues)中给自己分配Issue任务，在评论区输入/assign即可。
 
 6.**解决Issue**
 
