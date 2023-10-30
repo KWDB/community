@@ -85,27 +85,27 @@ community仓库拥有本项目最新的社区文档，docs仓库拥有本项目�
 
 3.**使用资源**
 
-- 用户可以直接使用下载的资源。
+- 您可以直接使用下载的资源。
 - 对于KaiwuDB文章和文档的引用，应当注明来源。对于源代码或文档修改，应当遵守Apache License 2.0的约束。
 - 对于二进制文件使用过程中遇到的问题，可以通过Bug提报(bug@openKaiwuDB.com)的方式反馈给社区。
 
 4.**选定SIG**
-<br>现阶段为了便于社区工作开展和交流，已设立的5个SIG小组中，请从已有的SIG小组中选择自己感兴趣的小组。
+<br>为了便于社区工作开展和交流，KaiwuDB项目组已设立5个SIG小组，请从已有的SIG小组中选择自己感兴趣的小组。
 如果当前还没有您感兴趣的小组，您可以通过发邮件（sigs@openKaiwuDB.com）的方式来申请成立新的兴趣小组，在收到邮件后，我们会第一时间评估讨论。
 
 5.**选择Issue**
-<br>从现有的统一的[Issue列表](https://gitee.com/kaiwudb-opensource/issues)中给自己分配Issue任务，即使有其他人已经在做了。
+<br>从现有的统一的[Issue列表](https://gitee.com/kaiwudb-opensource/issues)中给自己分配Issue任务，[Issue领取指南](http://)。
 
 6.**解决Issue**
 
 - 开展编码工作，来解决Issue。
-- 如果过程中遇到其它的bug，可以将bug提报给社区来解决。
+- 如果过程中遇到其它的bug，请参考下面的 **Bug（问题）和需求登记** 。
 
 7.**签署CLA**
-<br>如果用户选择成为贡献者，需要签署KaiwuDB社区贡献者许可协议（CLA）。
+<br>若您选择成为贡献者，请签署KaiwuDB社区贡献者许可协议（CLA）。
 
 8.**提交Issue**
-<br>在解决完Issue并经自测成功之后，你可以Pull Request到相应仓库中，等待审核者进行审核。
+<br>在解决完Issue并自测成功之后，您可以Pull Request到相应仓库中，您只需等待审核者审核合并相应提交即可。
 
 9.**审核**
 <br>审核者在得知贡献者PR代码后，会对代码进行Review和自动化测试。
@@ -114,14 +114,14 @@ community仓库拥有本项目最新的社区文档，docs仓库拥有本项目�
 <br>社区组织中的专职人员对上报Bug信息进行审核确认。
 
 11.**贡献完成**
-<br>解决Issue的代码合并或者新发现的Bug登记后，贡献流程完成。
+<br>Issue解决并合并到相应仓库中，或者新发现的Bug登记后，贡献流程完成。
 
 详见[贡献流程](Contribute_process.md)
 
 ## 如何提报问题与建议
-- **代码或文档Bug（问题）登记**
+- **Bug（问题）和需求登记**
 
-用户在阅读文档、代码，或者修改代码中发现的任何问题，可以发邮件到bug@openKaiwuDB.com的方式通知社区，社区会尽快安排核实解决。
+在阅读文档、代码，修改代码和使用中发现的任何问题或需求，请提交到对应的仓库中，若不确定问题或需求属于那个仓库，可以吧其提交到[community](https://gitee.com/kaiwudb-opensource/community/issues)，感谢您支持，[issues提交指南](http://)。
 
 - **意见与建议**
-用户有任何关于本社区的意见或者建议，可以发送邮件至user@openKaiwuDB.com
+若你有任何关于本社区的意见或者建议，可以发送邮件至user@openKaiwuDB.com
