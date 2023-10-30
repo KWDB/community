@@ -10,6 +10,10 @@
 ## **现有小组**
 
 现有用户小组设置如下：
+|阿达|AD|CS||
+|--S|--|--|--|
+
+
 <br>SQL engine SIG：计算引擎小组,负责KaiwuDB社区SQL计算引擎的开发和维护，组长：任艳征 renyanzheng@openKaiwuDB.com
 <br>Storage engine SIG：存储引擎小组，负责KaiwuDB社区存储引擎的开发和维护，组长：贾德星 jiadexing@openKaiwuDB.com
 <br>AIoT SIG: 多模时序技术小组，负责KaiwuDB社区数据库相关AI和IoT技术的开发和维护，组长：史大义 shidayi@openKaiwuDB.com
