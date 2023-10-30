@@ -11,7 +11,7 @@
 
 现有用户小组设置如下：
 |   SIG名称  |   简介  |  邮箱  |
-|---|---|---|---|
+|---|---|---|
 | SQL engine SIG（计算引擎小组）| 负责KaiwuDB社区SQL计算引擎的开发和维护  | renyanzheng@openKaiwuDB.com  |
 | Storage engine SIG（存储引擎小组）  | 负责KaiwuDB社区存储引擎的开发和维护  | jiadexing@openKaiwuDB.com  |
 | AIoT SIG（多模时序技术小组）| 负责KaiwuDB社区数据库相关AI和IoT技术的开发和维护  | shidayi@openKaiwuDB.com  |
