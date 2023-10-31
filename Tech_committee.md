@@ -49,4 +49,4 @@
 ## 当前组织构成
 <br>主席：**魏可伟**
 <br>核心委员：陈磊，史大义，窦志彤，贾德星，周幸骏，任鲲鹏，裴春峰，Dustin Jiang，时振宇，徐元慧，刘旺
-<br>联系方式：**tech@openKaiwuDB.com**
+<br>联系方式：**tech@kaiwudb.org.cn**
