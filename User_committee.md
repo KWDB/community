@@ -33,11 +33,11 @@
 - 由各贡献者自行提出申请，用户委员会2/3表决通过。
 
 ### 当前成员
-<br>Demand Specialist(需求师)：余静，demand@openKaiwuDB.com
+<br>Demand Specialist(需求师)：余静，demand@kaiwudb.org.cn
 <br>Ambassador(社区大使)：
 
-- 吴昱，wuyu@openKaiwuDB.com
-- 窦志彤，douzhitong@openKaiwuDB.com
+- 吴昱，wuyu@kaiwudb.org.cn
+- 窦志彤，douzhitong@kaiwudb.org.cn
 
 
-用户委员会联系方式：user@openKaiwuDB.com
+用户委员会联系方式：user@kaiwudb.org.cn
