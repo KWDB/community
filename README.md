@@ -91,7 +91,7 @@ community仓库拥有本项目最新的社区文档，[docs仓库](https://gitee
 
 4.**选定SIG**
 <br>为了便于社区工作开展和交流，KaiwuDB项目组已设立5个SIG小组，请从已有的SIG小组中选择自己感兴趣的小组。
-如果当前还没有您感兴趣的小组，您可以通过发邮件（sigs@openKaiwuDB.com）的方式来申请成立新的兴趣小组，在收到邮件后，我们会第一时间评估讨论。
+如果当前还没有您感兴趣的小组，您可以通过发邮件（sigs@kaiwudb.org.cn）的方式来申请成立新的兴趣小组，在收到邮件后，我们会第一时间评估讨论。
 
 5.**选择Issue**
 <br>从现有的统一的[Issue列表](https://gitee.com/organizations/kaiwudb-opensource/issues)中给自己分配Issue任务，在评论区输入/assign即可。
