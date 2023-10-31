@@ -24,4 +24,4 @@
 <br>理事长：**张晖**
 <br>秘书长：**王小虎**
 <br>理事：**黄越，陈磊，魏可伟，张勇**
-<br>联系方式：**council@openKaiwuDB.com**
+<br>联系方式：**council@kaiwudb.org.cn**
