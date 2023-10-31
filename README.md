@@ -22,7 +22,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 
 - **Tech committee(技术委员会)**
 
-<br>技术委员会是社区项目的技术管理机构，提供技术指导、决策和监督。拥有技术决策的最终裁决权。<br>主要职责：
+技术委员会是社区项目的技术管理机构，提供技术指导、决策和监督。拥有技术决策的最终裁决权。<br>主要职责：
 <br>①决策社区技术的发展愿景和技术创新，保证社区具有持续的技术竞争力。
 <br>②落实社区日常开发工作，保证社区发行版高质量发布。
 <br>③决策社区 SIG 的成立、撤销、合并等事务，维护其日常运作。
@@ -38,7 +38,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 
 - **SIGs(专项兴趣小组)**
 
-专项兴趣小组（SIG）是针对某个具体的技术方向，由3位及以上成员组成的学习、研究小组。
+专项兴趣小组是针对某个具体的技术方向，由3位及以上成员组成的学习、研究小组。
 <br>每个小组负责：
 <br>①针对特定的一个或多个主题建立社区项目。
 <br>②推动各项目输出交付成果。
@@ -46,7 +46,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 ## 社区角色
 - **Contributor（贡献者）**
 <br>Contributor（贡献者）是向开源项目的存储库贡献代码或文档的人。
-<br>任何有注册账号，并签署本社区CLA协议成功的用户都可以成为Contributor
+<br>任何有注册账号，并签署本社区CLA协议成功的用户都可以成为Contributor。
 
 - **Committer（提交者）**
 <br>Committer（提交者）是始终如一的贡献者（Contributor），通常是项目的主要开发人员，能够修改开源软件特定部分源代码，是项目的带头人之一，被视为社区中值得信赖的成员。与此同时，提交者通常负责审查贡献者（Contributor）提交的补丁，以便将其合并到项目库中。
@@ -57,17 +57,17 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 <br>如何成为[Maintaner](Tech_committee.md)？
 
 - **Demand Specialist(需求师)**
-<br>负责收集整理用户技术和产品需求
-如何成为[需求师](User_committee.md)？
+<br>负责收集整理用户技术和产品需求。
+<br>如何成为[需求师](User_committee.md)？
 - **Ambassador(社区大使)**
 <br>负责开展各种市场营销活动，组织KaiwuDB数据库技术、用户案例、解决方案和社区的宣传活动。作为开源社区和用户的沟通桥梁，负责宣传最新的技术进展，并从用户获取反馈。
-如何成为[社区大使](User_committee.md)？
+<br>如何成为[社区大使](User_committee.md)？
 ## 如何下载资源
 - **文档下载**
 
-community仓库拥有本项目最新的社区文档，docs仓库拥有本项目最新的开发文档，所有用户均可下载。
+community仓库拥有本项目最新的社区文档，[docs仓库](https://gitee.com/kaiwudb-opensource/docs)拥有本项目最新的开发文档，所有用户均可下载。
 
-- **下载代码**
+- **代码下载**
 
 希望阅读代码或更改代码的用户需要进入[KaiwuDB代码仓库](https://gitee.com/kaiwudb-opensource/kaiwudb)
 下载相应版本最新代码。
@@ -116,12 +116,12 @@ community仓库拥有本项目最新的社区文档，docs仓库拥有本项目�
 11.**贡献完成**
 <br>Issue解决并合并到相应仓库中，或者新发现的Bug登记后，贡献流程完成。
 
-详见[贡献流程](Contribute_process.md)
+详见[贡献流程](Contribute_process.md)。
 
 ## 如何提报问题与建议
 - **Bug（问题）和需求登记**
 
-在阅读文档、代码，修改代码和使用中发现的任何问题或需求，请提交到对应的仓库中，若不确定问题或需求属于那个仓库，可以把其提交到[community](https://gitee.com/kaiwudb-opensource/community/issues)，感谢您支持，[issues提交指南](https://gitee.com/kaiwudb-opensource/community/blob/master/issues%20Submission%20Guidelines.md)。
+在阅读文档、代码，修改代码和使用中发现的任何问题或需求，请提交到对应的仓库中，若不确定问题或需求属于哪个仓库，可以提交到[community](https://gitee.com/kaiwudb-opensource/community/issues)。感谢您支持，详见[issues提交指南](https://gitee.com/kaiwudb-opensource/community/blob/master/issues%20Submission%20Guidelines.md)。
 
 - **意见与建议**
-若你有任何关于本社区的意见或者建议，可以发送邮件至user@openKaiwuDB.com
+若您有任何关于本社区的意见或者建议，可以发送邮件至user@openKaiwuDB.com
