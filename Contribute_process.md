@@ -15,7 +15,7 @@ KaiwuDB源代码托管在Gitee（码云）上，请参考Gitee官方文章（htt
 ## 4.选定SIG
 
 SIG（Special Interest Group）是指特别兴趣小组，SIG在开源社区理事会指导下，负责社区特定子领域及创新项目的架构设计、开源开发及项目维护等工作。在现阶段，为了便于开源社区工作开展和交流，设立5个SIG小组。具体联系方式见[Sig小组介绍](https://gitee.com/kaiwudb/Community/Sigs.md)。
-如果当前还没有您感兴趣的小组，您可以通过发邮件到sigs@openKaiwuDB.com的方式来申请成立新的兴趣小组。
+如果当前还没有您感兴趣的小组，您可以通过发邮件到sigs@kaiwudb.org.cn的方式来申请成立新的兴趣小组。
 
 ## 5.选择Issue
 
