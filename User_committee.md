@@ -34,9 +34,7 @@
 
 ### 当前成员
 <br>Demand Specialist(需求师)：余静，demand@kaiwudb.org.cn
-
 <br>Ambassador(社区大使)：
 成员：吴昱，窦志彤
 联系方式：Ambassador@kaiwudb.org.cn
-
 用户委员会联系方式：user@kaiwudb.org.cn
