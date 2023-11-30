@@ -2,9 +2,10 @@
 
 欢迎来到KaiwuDB社区。
 
-KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人才，核心产品囊括：KaiwuDB 分布式多模数据库与 KDP 数据服务平台；面向工业物联网、数字能源、车联网、智慧产业等各大行业领域，提供稳定安全、高性能、易运维的创新数据软件与服务，一站式满足 AIoT 等场景下数据管理需求及关键行业核心系统的自主可控需求。
+KaiwuDB是浪潮控股的数据库企业，核心产品囊括：KaiwuDB分布式多模数据库与KDP数据服务平台；面向工业物联网、数字能源、车联网、智慧产业等各大行业领域，提供稳定安全、高性能、易运维的创新数据软件与服务，一站式满足AIoT等场景下数据管理需求及关键行业核心系统的自主可控需求。
 
-本仓库（Community）包含了关于KaiwuDB社区的[社区公约](code_of_conduct.md)、社区治理、社区活动、开发者贡献指南、沟通交流指南等信息。
+本仓库（Community）包含了关于KaiwuDB社区组织架构、社区角色、社区贡献、社区公约等相关信息。 
+
 
 ## 社区组织架构
 
@@ -43,6 +44,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 <br>①针对特定的一个或多个主题建立社区项目。
 <br>②推动各项目输出交付成果。
 <br>详细信息见[专项兴趣小组](SIGs.md)介绍。
+
 ## 社区角色
 - **Contributor（贡献者）**
 <br>Contributor（贡献者）是向开源项目的存储库贡献代码或文档的人。
@@ -62,6 +64,7 @@ KaiwuDB 是浪潮控股的数据库企业，汇聚了全球顶尖的数据库人
 - **Ambassador(社区大使)**
 <br>负责开展各种市场营销活动，组织KaiwuDB数据库技术、用户案例、解决方案和社区的宣传活动。作为开源社区和用户的沟通桥梁，负责宣传最新的技术进展，并从用户获取反馈。
 <br>如何成为[社区大使](User_committee.md)？
+
 ## 如何下载资源
 - **文档下载**
 
@@ -75,52 +78,48 @@ Community仓库拥有本项目最新的社区文档，[docs仓库](https://gitee
 - **编译好的二进制可执行文件下载**
 
 仅希望使用本项目产品的用户可以直接下载社区编译好的二进制可执行文件。
-## 如何贡献代码
+
+## 如何参与社区贡献
 ![贡献流程图](/Figures/Contribute_process.png)
 
 1.[**注册Gitee账号**](https://gitee.com/signup?redirect_to_url=%2F)（如果已有，则忽略此步骤）
 
-2.**下载资源**
-<br>资源类型包括文章、文档、源代码、二进制可执行文件。
+2.**选定SIG**
+<br>为促进开源社区工作开展和交流，KaiwuDB设立5个SIG（Special Interest Group）特别兴趣小组。欢迎您才加入并参与贡献，您可以在 SIG 对应的代码仓库上提交 Issue，参与 Issue 讨论，提交 Pull Request，参与代码检视等。如下SIG兴趣列表供你选择：
 
-3.**使用资源**
+| SIG                              | 职责                                                        | 联系方式                   |
+|----------------------------------|-----------------------------------------------------------|------------------------|
+| SQL engine SIG（计算引擎小组）           | 负责KaiwuDB社区SQL计算引擎的开发和维护                                  | sql@kaiwudb.org.cn     |
+| Storage engine SIG（存储引擎小组）       | 负责KaiwuDB社区存储引擎的开发和维护                                     | storage@kaiwudb.org.cn |
+| AIoT SIG（多模时序技术小组）               | 负责KaiwuDB社区数据库相关AI和IoT技术的开发和维护                            | aiot@kaiwudb.org.cn    |
+| Docs SIG（产品文档小组）                 | 负责KaiwuDB社区文档的开发和维护                                       | docs@kaiwudb.org.cn    |
+| Release Management SIG（产品发布技术小组） | 负责开源项目管理技术的开发和维护，协调KaiwuDB社区各个SIG maintainer， 规划社区版本的发布工作 | release@kaiwudb.org.cn |
 
-- 您可以直接使用下载的资源。
-- 对于KaiwuDB文章和文档的引用，应当注明来源。对于源代码或文档修改，应当遵守Apache License 2.0的约束。
-- 对于二进制文件使用过程中遇到的问题，请参考下面的**Bug（问题）和需求登记**提交bug 。
+如果未有感兴趣的小组，您可发邮件至sigs@kaiwudb.org.cn，申请成立新兴趣小组。
 
-4.**选定SIG**
-<br>为了便于社区工作开展和交流，KaiwuDB项目组已设立5个SIG小组，请从已有的SIG小组中选择自己感兴趣的小组。
-如果当前还没有您感兴趣的小组，您可以通过发邮件（sigs@kaiwudb.org.cn）的方式来申请成立新的兴趣小组，在收到邮件后，我们会第一时间评估讨论。
+3.**选择Issue**
+<br>从现有的统一的[Issue列表](https://gitee.com/organizations/kaiwudb-opensource/issues)中给自己分配Issue任务，在评论区输入/assign即可。在社区正式更新Issue列表之前，所有人都可为自己分配Issue列表中的任务，即使该 issue 已经有伙伴参与有其他人已经在做了。如果您感兴趣，也可以在评论框中发表自己的意见参与 Issue 讨论。
 
-5.**选择Issue**
-<br>从现有的统一的[Issue列表](https://gitee.com/organizations/kaiwudb-opensource/issues)中给自己分配Issue任务，在评论区输入/assign即可。
-
-6.**解决Issue**
+4.**解决Issue**
 
 - 开展编码工作，来解决Issue。
-- 如果过程中遇到其它的bug，请参考下面的 **Bug（问题）和需求登记**提交bug 。
+- 如果过程中遇到其它的Bug，请参考下面的 **Bug和需求登记**提交Bug 。
 
-7.**签署CLA**
+5.**签署CLA**
 <br>若您选择成为贡献者，请签署KaiwuDB社区贡献者许可协议（CLA）。
 
-8.**提交Issue**
-<br>在解决完Issue并自测成功之后，您可以Pull Request到相应仓库中，您只需等待审核者审核合并相应提交即可。
+6.**提交Issue**
+<br>在解决完Issue并自测成功之后，您可以Pull Request到相应仓库中，您只需等待审核者审核合并相应提交即可。若您的 Pull Request 没有得到回复，可通过对应 SIG邮件列表求助。
 
-9.**审核**
-<br>审核者在得知贡献者PR代码后，会对代码进行Review和自动化测试。
+7.**审核**
+<br>审核者在得知贡献者PR代码后，会对代码进行Review和自动化测试。测试通过的代码提交请求将予以通过，代码正式合并到代码库，并更新社区Issue列表。审核不通过的PR请求予以退回。贡献者可以按照comment重新修改。
 
-10.**Bug检查**
-<br>社区组织中的专职人员对上报Bug信息进行审核确认。
+ **至此，所有的贡献流程全部完成。**详见[贡献流程](Contribute_process.md)
 
-11.**贡献完成**
-<br>Issue解决并合并到相应仓库中，或者新发现的Bug登记后，贡献流程完成。
+## 如何提报Bug与建议
+<br>为营造更加具有活力的生态社区，我们在多环节开放“Bug检查”。所有伙伴在使用社区的任何资源（包括文章、文档、源代码、二进制产品文件等）过程中发现问题，都可提交Bug请求。我们也将设置专员负责Bug信息的审核、确认、修改及回复工作。
 
-详见[贡献流程](Contribute_process.md)。
-
-## 如何提报问题与建议
-- **Bug（问题）和需求登记**
-
+- **Bug和需求登记**
 在阅读文档、代码，修改代码和使用中发现的任何问题或需求，请提交到对应的仓库中，若不确定问题或需求属于哪个仓库，可以提交到[community](https://gitee.com/kaiwudb-opensource/community/issues)。感谢您支持，详见[issues提交指南](https://gitee.com/kaiwudb-opensource/community/blob/master/issues%20Submission%20Guidelines.md)。
 
 - **意见与建议**
