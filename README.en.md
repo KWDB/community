@@ -1,5 +1,7 @@
 # KaiwuDB Community
 
+English | [简体中文](./README.md)
+
 Welcome to the KaiwuDB community!
 
 KaiwuDB is a leading database company backed by Inspur Group. Our core offerings include the KaiwuDB database and the KDP data service platform, tailored for diverse sectors such as industrial IoT, digital energy, vehicles-to-everything (V2X), and the smart industry.
@@ -114,7 +116,7 @@ To make our community even better, we're introducing a multi-stage 'Bug Check.' 
 
 ### Report Bugs or Feature Requests
 
-Submit issues or feature requests you find while reading, using, or modifying the documentation and code. If unsure which repository to report to, report to the [Community](https://gitee.com/kaiwudb-opensource/community/issues) repository. For details, see the [Issue Submission Guide](https://gitee.com/kaiwudb-opensource/community/blob/master/issues Submission Guidelines.md).
+Submit issues or feature requests you find while reading, using, or modifying the documentation and code. If unsure which repository to report to, report to the [Community](https://gitee.com/kaiwudb-opensource/community/issues) repository. For details, see the [Issue Submission Guide](https://gitee.com/kaiwudb-opensource/community/blob/master/issues%20Submission%20Guidelines.md).
 
 ### Feedback and Suggestions
 
