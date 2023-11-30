@@ -83,6 +83,7 @@ Community仓库拥有本项目最新的社区文档，[docs仓库](https://gitee
 ![贡献流程图](/Figures/Contribute_process.png)
 
 1.[**注册Gitee账号**](https://gitee.com/signup?redirect_to_url=%2F)（如果已有，则忽略此步骤）
+<br>KaiwuDB源代码托管在Gitee（码云）上，请参考[Gitee官方文章](http://https://gitee.com/help/articles/4113)注册您的Gitee账户类型。
 
 2.**选定SIG**
 <br>为促进开源社区工作开展和交流，KaiwuDB设立5个SIG（Special Interest Group）特别兴趣小组。欢迎您才加入并参与贡献，您可以在 SIG 对应的代码仓库上提交 Issue，参与 Issue 讨论，提交 Pull Request，参与代码检视等。如下SIG兴趣列表供你选择：
