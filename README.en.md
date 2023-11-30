@@ -12,7 +12,7 @@ Explore this repository to access vital information about the KaiwuDB community,
 
 ## Organization Structure
 
-![img](https://zzqonnd3sc.feishu.cn/space/api/box/stream/download/asynccode/?code=ODQ5Nzk3N2ZhOTdjODVlNGFjN2Q2OTVmODdjMTY4ZjRfYlAxbmppMFdPWW80cmFnTUk3akc4NkJnYkdZVzVseFVfVG9rZW46TkhWemJZVWd2b3Rzc1l4empRZmM4aGJvbkdkXzE3MDEzMjU3Mjc6MTcwMTMyOTMyN19WNA)
+![img](/Figures/Organization_structure.png)
 
 ### **Council**
 
@@ -82,7 +82,7 @@ Users who only wish to use the products can download the compiled binary executa
 
 ## Contribution Process
 
-![img](https://zzqonnd3sc.feishu.cn/space/api/box/stream/download/asynccode/?code=NDY5ZjU4MTdhNzI3M2M3ZmJiMmQxYWJiYjczOTc3OGRfdWR5S1JEYlZWcldpNVNYRm5kdldvSzhrdmIzeW1ZbGlfVG9rZW46TVlUaWIwMHk0b2Z5STV4Z1N3c2M4WHlrbjhEXzE3MDEzMjU3Mjc6MTcwMTMyOTMyN19WNA)
+![img](/Figures/contribution_process.PNG)
 
 1. **Register on Gitee**: If you don't have an account, register on Gitee. Skip this step if you already have one.
 
