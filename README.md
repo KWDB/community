@@ -109,7 +109,7 @@ Community仓库拥有本项目最新的社区文档，[docs仓库](https://gitee
 - 如果过程中遇到其它的Bug，请参考下面的 **Bug和需求登记**提交Bug 。
 
 5.**签署CLA**
-<br>若您选择成为贡献者，请签署KaiwuDB社区贡献者许可协议（CLA）。
+<br>若您选择成为贡献者，请签署KaiwuDB社区贡献者许可协议[CLA](https://gitee.com/organizations/kaiwudb-opensource/cla/001)。
 
 6.**提交Issue**
 <br>在解决完Issue并自测成功之后，您可以Pull Request到相应仓库中，您只需等待审核者审核合并相应提交即可。若您的 Pull Request 没有得到回复，可通过对应 SIG邮件列表求助。
