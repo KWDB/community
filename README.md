@@ -1,12 +1,12 @@
-# KaiwuDB 开源社区导览
+# KWDB 开源社区导览
 
 简体中文 | [English](./README.en.md)
 
-欢迎来到KaiwuDB社区。
+欢迎来到KWDB社区。
 
-KaiwuDB是浪潮控股的数据库企业，核心产品囊括：KaiwuDB分布式多模数据库与KDP数据服务平台；面向工业物联网、数字能源、车联网、智慧产业等各大行业领域，提供稳定安全、高性能、易运维的创新数据软件与服务，一站式满足AIoT等场景下数据管理需求及关键行业核心系统的自主可控需求。
+KWDB是浪潮控股的数据库企业，核心产品囊括：KWDB分布式多模数据库与KDP数据服务平台；面向工业物联网、数字能源、车联网、智慧产业等各大行业领域，提供稳定安全、高性能、易运维的创新数据软件与服务，一站式满足AIoT等场景下数据管理需求及关键行业核心系统的自主可控需求。
 
-本仓库（Community）包含了关于KaiwuDB社区组织架构、社区角色、社区贡献、社区公约等相关信息。 
+本仓库（Community）包含了关于KWDB社区组织架构、社区角色、社区贡献、社区公约等相关信息。 
 
 
 ## 社区组织架构
@@ -16,7 +16,7 @@ KaiwuDB是浪潮控股的数据库企业，核心产品囊括：KaiwuDB分布式
 
 - **Council(社区理事会)**
 
-社区理事会是KaiwuDB开源社区的最高领导和决策机构。 
+社区理事会是KWDB开源社区的最高领导和决策机构。 
 <br>主要负责：  
 ①指导社区的发展方向，制定长期发展规划和实施指导意见。  
 ②审视社区各种委员会工作，给出指导意见。
@@ -64,7 +64,7 @@ KaiwuDB是浪潮控股的数据库企业，核心产品囊括：KaiwuDB分布式
 <br>负责收集整理用户技术和产品需求。
 <br>如何成为[需求师](User_committee.md)？
 - **Ambassador(社区大使)**
-<br>负责开展各种市场营销活动，组织KaiwuDB数据库技术、用户案例、解决方案和社区的宣传活动。作为开源社区和用户的沟通桥梁，负责宣传最新的技术进展，并从用户获取反馈。
+<br>负责开展各种市场营销活动，组织KWDB数据库技术、用户案例、解决方案和社区的宣传活动。作为开源社区和用户的沟通桥梁，负责宣传最新的技术进展，并从用户获取反馈。
 <br>如何成为[社区大使](User_committee.md)？
 
 ## 如何下载资源
@@ -92,11 +92,11 @@ Community仓库拥有本项目最新的社区文档，[docs仓库](https://gitee
 
 | SIG                              | 职责                                                        | 联系方式                   |
 |----------------------------------|-----------------------------------------------------------|------------------------|
-| SQL engine SIG（计算引擎小组）           | 负责KaiwuDB社区SQL计算引擎的开发和维护                                  | sql@kaiwudb.org.cn     |
-| Storage engine SIG（存储引擎小组）       | 负责KaiwuDB社区存储引擎的开发和维护                                     | storage@kaiwudb.org.cn |
-| AIoT SIG（多模时序技术小组）               | 负责KaiwuDB社区数据库相关AI和IoT技术的开发和维护                            | aiot@kaiwudb.org.cn    |
-| Docs SIG（产品文档小组）                 | 负责KaiwuDB社区文档的开发和维护                                       | docs@kaiwudb.org.cn    |
-| Release Management SIG（产品发布技术小组） | 负责开源项目管理技术的开发和维护，协调KaiwuDB社区各个SIG maintainer， 规划社区版本的发布工作 | release@kaiwudb.org.cn |
+| SQL engine SIG（计算引擎小组）           | 负责KWDB社区SQL计算引擎的开发和维护                                  | sql@kaiwudb.org.cn     |
+| Storage engine SIG（存储引擎小组）       | 负责KWDB社区存储引擎的开发和维护                                     | storage@kaiwudb.org.cn |
+| AIoT SIG（多模时序技术小组）               | 负责KWDB社区数据库相关AI和IoT技术的开发和维护                            | aiot@kaiwudb.org.cn    |
+| Docs SIG（产品文档小组）                 | 负责KWDB社区文档的开发和维护                                       | docs@kaiwudb.org.cn    |
+| Release Management SIG（产品发布技术小组） | 负责开源项目管理技术的开发和维护，协调KWDB社区各个SIG maintainer， 规划社区版本的发布工作 | release@kaiwudb.org.cn |
 
 如果未有感兴趣的小组，您可发邮件至sigs@kaiwudb.org.cn，申请成立新兴趣小组。
 
