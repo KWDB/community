@@ -70,11 +70,11 @@ KWDB是浪潮控股的数据库企业，核心产品囊括：KWDB分布式多模
 ## 如何下载资源
 - **文档下载**
 
-Community仓库拥有本项目最新的社区文档，[docs仓库](https://gitee.com/kaiwudb-opensource/docs)拥有本项目最新的开发文档，所有用户均可下载。
+Community仓库拥有本项目最新的社区文档，[docs仓库](https://gitee.com/kwdb/docs)拥有本项目最新的开发文档，所有用户均可下载。
 
 - **代码下载**
 
-希望阅读代码或更改代码的用户需要进入[KaiwuDB代码仓库](https://gitee.com/kaiwudb-opensource/kaiwudb)
+希望阅读代码或更改代码的用户需要进入[KWDB代码仓库](https://)
 下载相应版本最新代码。
 
 - **编译好的二进制可执行文件下载**
@@ -101,7 +101,7 @@ Community仓库拥有本项目最新的社区文档，[docs仓库](https://gitee
 如果未有感兴趣的小组，您可发邮件至sigs@kaiwudb.org.cn，申请成立新兴趣小组。
 
 3.**选择Issue**
-<br>从现有的统一的[Issue列表](https://gitee.com/organizations/kaiwudb-opensource/issues)中给自己分配Issue任务，在评论区输入/assign即可。在社区正式更新Issue列表之前，所有人都可为自己分配Issue列表中的任务，即使该 issue 已经有伙伴参与有其他人已经在做了。如果您感兴趣，也可以在评论框中发表自己的意见参与 Issue 讨论。
+<br>从现有的统一的[Issue列表](https:)中给自己分配Issue任务，在评论区输入/assign即可。在社区正式更新Issue列表之前，所有人都可为自己分配Issue列表中的任务，即使该 issue 已经有伙伴参与有其他人已经在做了。如果您感兴趣，也可以在评论框中发表自己的意见参与 Issue 讨论。
 
 4.**解决Issue**
 
@@ -123,7 +123,7 @@ Community仓库拥有本项目最新的社区文档，[docs仓库](https://gitee
 <br>为营造更加具有活力的生态社区，我们在多环节开放“Bug检查”。所有伙伴在使用社区的任何资源（包括文章、文档、源代码、二进制产品文件等）过程中发现问题，都可提交Bug请求。我们也将设置专员负责Bug信息的审核、确认、修改及回复工作。
 
 - **Bug和需求登记**
-在阅读文档、代码，修改代码和使用中发现的任何问题或需求，请提交到对应的仓库中，若不确定问题或需求属于哪个仓库，可以提交到[community](https://gitee.com/kaiwudb-opensource/community/issues)。感谢您支持，详见[issues提交指南](https://gitee.com/kaiwudb-opensource/community/blob/master/issues%20Submission%20Guidelines.md)。
+在阅读文档、代码，修改代码和使用中发现的任何问题或需求，请提交到对应的仓库中，若不确定问题或需求属于哪个仓库，可以提交到[community](https:)。感谢您支持，详见[issues提交指南](https://gitee.com/kwdb/community/blob/master/issues%20Submission%20Guidelines.md)。
 
 - **意见与建议**
 若您有任何关于本社区的意见或者建议，可以发送邮件至user@kaiwudb.org.cn
