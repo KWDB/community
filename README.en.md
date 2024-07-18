@@ -12,7 +12,7 @@ Explore this repository to access vital information about the KWDB community, in
 
 ## Organization Structure
 
-![img](/Figures/Organization_structure.png)
+![img](/Figures/Organization_Structure.png)
 
 ### **Council**
 
