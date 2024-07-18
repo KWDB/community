@@ -1,11 +1,11 @@
 # bug与需求提交指南
 
-首先感谢您对KaiwuDB项目的支持，提交bug与需求也是社区贡献重要的一部分。
+首先感谢您对KWDB项目的支持，提交bug与需求也是社区贡献重要的一部分。
 
 ## 问题所在仓库确定
 
 - 若您确定问题所在仓库，请在搜索栏中搜索相应的仓库名称查找仓库；
-- 若您不确定问题属于哪个仓库，请将问题提交到[community](https://gitee.com/kaiwudb-opensource/community)仓库中。
+- 若您不确定问题属于哪个仓库，请将问题提交到[community](https://gitee.com/kwdb/community)仓库中。
 
 ## 创建issues
 
