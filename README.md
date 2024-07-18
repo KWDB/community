@@ -11,7 +11,7 @@ KWDB是浪潮控股的数据库企业，核心产品囊括：KWDB分布式多模
 
 ## 社区组织架构
 
-![社区组织架构图](/Figures/Organization_structure.png)
+![社区组织架构图](/Figures/Organization_Structure.png)
 
 
 - **Council(社区理事会)**
