@@ -12,11 +12,11 @@
 现有用户小组设置如下：
 |   SIG名称  |   简介  |  邮箱  |
 |---|---|---|
-| SQL engine SIG（计算引擎小组）| 负责KaiwuDB社区SQL计算引擎的开发和维护  | sql@kaiwudb.org.cn  |
-| Storage engine SIG（存储引擎小组）  | 负责KaiwuDB社区存储引擎的开发和维护  | storage@kaiwudb.org.cn  |
-| AIoT SIG（多模时序技术小组）| 负责KaiwuDB社区数据库相关AI和IoT技术的开发和维护  | aiot@kaiwudb.org.cn  |
-| Docs SIG（产品文档小组）| 负责KaiwuDB社区文档的开发和维护  | docs@kaiwudb.org.cn  |
-| Release Management SIG（产品发布技术小组）| 负责开源项目管理技术的开发和维护，协调KaiwuDB社区各个SIG maintainer， 规划社区版本的发布工作  |release@kaiwudb.org.cn  |
+| SQL engine SIG（计算引擎小组）| 负责KWDB社区SQL计算引擎的开发和维护  | sql@kaiwudb.org.cn  |
+| Storage engine SIG（存储引擎小组）  | 负责KWDB社区存储引擎的开发和维护  | storage@kaiwudb.org.cn  |
+| AIoT SIG（多模时序技术小组）| 负责KWDB社区数据库相关AI和IoT技术的开发和维护  | aiot@kaiwudb.org.cn  |
+| Docs SIG（产品文档小组）| 负责KWDB社区文档的开发和维护  | docs@kaiwudb.org.cn  |
+| Release Management SIG（产品发布技术小组）| 负责开源项目管理技术的开发和维护，协调KWDB社区各个SIG maintainer， 规划社区版本的发布工作  |release@kaiwudb.org.cn  |
 ## **小组产生流程**
 
 - 由理事会、技术委员会、用户委员会组织成立。
