@@ -1,4 +1,4 @@
-# (Tech committee)技术委员会
+# Tech committee（技术委员会）
 
 ## **主要职责**
 
