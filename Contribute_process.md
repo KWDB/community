@@ -1,4 +1,4 @@
-# KWDB用户及开发者贡献流程
+# KWDB项目贡献流程
 ![贡献流程图](Figures/KWDB_contribute_process.png)
 ## [**注册Gitee账号**](https://gitee.com/signup?redirect_to_url=%2F)（如果已有，则忽略此步骤）
 <br>KWDB源代码托管在Gitee（码云）上，请参考[Gitee官方文章](http://https://gitee.com/help/articles/4113)注册您的Gitee账户类型。
