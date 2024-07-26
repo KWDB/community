@@ -11,19 +11,9 @@ KWDB是浪潮控股的数据库企业，核心产品囊括：KWDB分布式多模
 
 ## 社区组织架构
 
-![社区组织架构图](/Figures/Organization_Structure.png)
 
 
-- **Council(社区理事会)**
-
-社区理事会是KWDB开源社区的最高领导和决策机构。 
-<br>主要负责：  
-①指导社区的发展方向，制定长期发展规划和实施指导意见。  
-②审视社区各种委员会工作，给出指导意见。
-<br>③制定战略合作，促进社区生态提升社区活力。
-<br>详细信息见[社区理事会](Council.md)介绍。
-
-- **Tech Committee(技术委员会)**
+- **Techical Oversight Committee(技术委员会, TOC)**
 
 技术委员会是社区项目的技术管理机构，提供技术指导、决策和监督。拥有技术决策的最终裁决权。<br>主要职责：
 <br>①决策社区技术的发展愿景和技术创新，保证社区具有持续的技术竞争力。
@@ -122,11 +112,8 @@ Community仓库拥有本项目最新的社区文档，[docs仓库](https://gitee
 
  **至此，所有的贡献流程全部完成。** 详见[贡献流程](Contribute_process.md)
 
-## 如何提报Bug与建议
-<br>为营造更加具有活力的生态社区，我们在多环节开放“Bug检查”。所有伙伴在使用社区的任何资源（包括文章、文档、源代码、二进制产品文件等）过程中发现问题，都可提交Bug请求。我们也将设置专员负责Bug信息的审核、确认、修改及回复工作。
 
-- **Bug和需求登记**
-在阅读文档、代码，修改代码和使用中发现的任何问题或需求，请提交到对应的仓库中，若不确定问题或需求属于哪个仓库，可以提交到[community](https:)。感谢您支持，详见[issues提交指南](https://gitee.com/kwdb/community/blob/master/issues%20Submission%20Guidelines.md)。
+在阅读文档、代码，修改代码和使用中发现的任何bug或需求，请提交到对应的仓库中，若不确定bug或需求属于哪个仓库，可以提交到[community](https:)。感谢您的支持，详见[issues提交指南](https://gitee.com/kwdb/community/blob/master/issues%20Submission%20Guidelines.md)。
 
 - **意见与建议**
 若您有任何关于本社区的意见或者建议，可以发送邮件至user@kaiwudb.org.cn
