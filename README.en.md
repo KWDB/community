@@ -43,7 +43,7 @@ If you’re interested in reading or modifying the code, you can download the la
 
 **Download Compiled Binaries**
 
-If you simply want to use the project’s products, you can download the community-compiled binary executable files here.
+If you simply want to use the project’s products, you can download the community-compiled binary executable files [here](https://gitee.com/kwdb/kwdb/releases).
 
 ## How to Contribute
 

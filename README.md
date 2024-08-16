@@ -43,7 +43,7 @@ KWDB[社区角色](./Community_roles.md)包括：
 
 **下载编译好的二进制可执行文件**
 
-仅希望使用本项目产品的用户可以直接下载社区编译好的二进制可执行文件。
+仅希望使用本项目产品的用户可以直接下载社区编译好的[二进制可执行文件](https://gitee.com/kwdb/kwdb/releases)。
 
 ## 如何参与社区贡献
 欢迎您参与KWDB社区贡献，贡献流程详见[贡献流程](./Contribution_process.md)。
