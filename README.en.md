@@ -1,5 +1,7 @@
 # KWDB Community Guide
 
+English | [简体中文](./README.md)
+
 Welcome to the KWDB Community!
 
 This repository provides comprehensive information on how our community is organized, managed, and how you can contribute.

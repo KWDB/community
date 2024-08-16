@@ -1,5 +1,7 @@
 # KWDB 开源社区导览
 
+简体中文 | [English](./README.en.md)
+
 欢迎来到KWDB社区。
 
 Community仓库包含了KWDB社区组织架构、社区管理、社区贡献等各项内容。  
