@@ -40,7 +40,7 @@
 | 窦志彤   | [sql@kwdb.org.cn](mailto:sql@kwdb.org.cn)         |
 | 史大义   | [aiot@kwdb.org.cn](mailto:aiot@kwdb.org.cn)       |
 | 张炜刚   | [storage@kwdb.org.cn](mailto:storage@kwdb.org.cn) |
-| 周幸骏   | [install@kwdb.org.cn](mailto:install@kwdb.org.cn) |
+| 周幸骏   | [deploy@kwdb.org.cn](mailto:deploy@kwdb.org.cn) |
 | 梁瑞     | [docs@kwdb.org.cn](mailto:docs@kwdb.org.cn)       |
 
 ## **Committer**
@@ -75,7 +75,7 @@
 
 **如何成为Contributor：**
 
-在KWDB社区有一个或以上被Committer合入的Pull Request (PR)。
+在KWDB社区有一个（或以上）被Committer合入的Pull Request (PR)。
 
 ## **用户委员会（User Committee）**
 
