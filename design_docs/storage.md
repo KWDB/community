@@ -118,8 +118,9 @@ SST 文件主要由数据块和meta块两部分组成。meta块记录了诸如�
 
 #### 3.2.1 数据写入
 
-数据写入时首先写入内存中的 Memtable，Memtable 维护的数据结构保证插入后整个 Memtable 仍保持有序。同时，对Memtable的写入操作会同步更新到日志文件中（WAL，在下面介绍）。当Memtable写满后，变为不可变Memtable，由后台线程将不可变Memtable刷盘成为磁盘上的L0层SSTable文件。随着数据不断写入，MemTable 不断被刷到磁盘，L0 层上的 SST 文件数量也在增长。当L0层的SST文件数量达到预设值时，会触发Compaction机制以保证每层的SST文件数或者总文件大小不超过预设值。关于Compaction机制的介绍见第2.2.1.2小节。
 ![数据写入](./figs/storage/rocksdb_write.png)
+
+数据写入时首先写入内存中的 Memtable，Memtable 维护的数据结构保证插入后整个 Memtable 仍保持有序。同时，对Memtable的写入操作会同步更新到日志文件中（WAL，在下面介绍）。当Memtable写满后，变为不可变Memtable，由后台线程将不可变Memtable刷盘成为磁盘上的L0层SSTable文件。随着数据不断写入，MemTable 不断被刷到磁盘，L0 层上的 SST 文件数量也在增长。当L0层的SST文件数量达到预设值时，会触发Compaction机制以保证每层的SST文件数或者总文件大小不超过预设值。关于Compaction机制的介绍见第2.2.1.2小节。
 
 ##### 3.2.1.1 预写日志（WAL）机制
 
@@ -135,7 +136,9 @@ Compaction 会将某层的 SST 文件同下一层的 SST 文件合并，并在�
 #### 3.2.2 数据查询
 
 在LSM-Tree这种有序的数据结构下，查询某个key只需只需自顶向下遍历逐层访问对应的树结点即可。查找首先从 MemTable 开始，下探到 L0，然后继续向更低层级查找，直到找到该 key 或者检查完可能的 SST 文件为止。
-以下是查找步骤：
+
+查找步骤如下：
+![查询](./figs/storage/rocksdb_read.png)
 
 1. 检索 MemTable
 2. 检索不可变 MemTables
@@ -147,5 +150,3 @@ Compaction 会将某层的 SST 文件同下一层的 SST 文件合并，并在�
 1. 使用布隆过滤器来判断该key是否在此文件中（可选）
 2. 查找 index block 来找到可能包含该 key 的 block 所在位置
 3. 读取 data block 并尝试在其中找到该 key
-
-![查询](./figs/storage/rocksdb_read.png)
