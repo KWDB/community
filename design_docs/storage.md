@@ -23,7 +23,7 @@ KWDB时序引擎使用内存映射(mmap)技术对这些持久化列存数据文�
 KWDB 底层时序存储通过时间分区进行数据分组管理，方便快速通过时间过滤查询；采用列存结构，保证优秀的压缩效果和查询性能。时序存储引擎将所有数据存放在目录`./tsdb`下。在存储模块中，所有时序表不区分库，按照table_id放到不同的子目录中。每个表内自顶向下按照EntityGroup、SubEntityGroup、Partition、Segment、Block来组织时序数据以及标签（tag）。
 ![Structure](./figs/storage/structure.png)
 
-- **EntityGroup：** 存储层的 EntityGroup 是相对独立的一个物理单元，是一个时序表水平切分的分片。一个 EntityGroup 内部包含完整的 Tag 表数据和 Metrics 数据。在存储目录层级上使用独立的目录存放一个 EntityGroup 的全部数据。
+- **EntityGroup：** 存储层的 EntityGroup 是相对独立的一个物理单元。一个 EntityGroup 内部包含完整的 Tag 表数据和 Metrics 数据。在存储目录层级上使用独立的目录存放一个 EntityGroup 的全部数据。
   
 - **SubEntityGroup：** SubEntityGroup 是为了平衡元数据的空间占用及设备（Entity）查询性能问题引入的概念：元数据 MetaBlock 是预分配的，如果数量预留过大而实际使用量少会造成空间浪费，而大量的 Entity 查找也会消耗查询性能。因此我们可通过系统参数设置每个 SubEntityGroup 最多可存储的 Entity 数量。SubEntityGroup 不是完全独立的存储单元，一个 EntityGroup 内的多个 SubEntityGroup 都是共用一个 Tag 表。
 
