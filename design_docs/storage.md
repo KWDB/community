@@ -136,9 +136,8 @@ Compaction 会将某层的 SST 文件同下一层的 SST 文件合并，并在�
 #### 3.2.2 数据查询
 
 在LSM-Tree这种有序的数据结构下，查询某个key只需只需自顶向下遍历逐层访问对应的树结点即可。查找首先从 MemTable 开始，下探到 L0，然后继续向更低层级查找，直到找到该 key 或者检查完可能的 SST 文件为止。
-
-查找步骤如下：
 ![查询](./figs/storage/rocksdb_read.png)
+查找步骤如下：
 
 1. 检索 MemTable
 2. 检索不可变 MemTables
