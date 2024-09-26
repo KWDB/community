@@ -117,13 +117,9 @@ KWDB底层的关系库存储引擎，是基于RocksDB的Key/Value模式。RocksD
 
 LSM Tree也被称为日志结构合并树，它是一种树形的数据结构，每层的数据按 key 有序。LSM-Tree 的最高层保存在内存中，包含最近写入的数据。其他较低层级的数据存储在磁盘上，层数编号从 0 到 N 。第 0 层 L0 存储从内存移动到磁盘上的数据，第 1 层及以下层级则存储更老的数据。通常某层的下个层级在数据量上会比该层大一个数量级，当某层数据量变得过大时，会合并到下一层。在RocksDB中，顶层的内存树节点被命名为MemTable，持久化到磁盘的树节点以文件的形式存在，被命名为SSTable。下面分别进行介绍。
 
-#### MemTable
+-  **MemTable：** MemTable 是一个内存缓冲区，在键值对写入磁盘之前，MemTable 会缓存住这些键值对。所有插入、删除和更新操作都会首先更新MemTable。MemTable 具有可配置的字节数限制。当一个 MemTable 达到其配置的字节数限制时，那么这个 MemTable 将变为不可修改状态，同时会新建立一个MemTable以缓存后续的键值对更新。MemTable 的默认大小为 64 MB。不可修改的MemTable将由后台线程落盘成为持久化的SST文件。为了查询的高效性，MemTable需要有序数据结构实现。在RocksDB中MemTable默认以跳表SkipList数据结构实现。
 
-MemTable 是一个内存缓冲区，在键值对写入磁盘之前，MemTable 会缓存住这些键值对。所有插入、删除和更新操作都会首先更新MemTable。MemTable 具有可配置的字节数限制。当一个 MemTable 达到其配置的字节数限制时，那么这个 MemTable 将变为不可修改状态，同时会新建立一个MemTable以缓存后续的键值对更新。MemTable 的默认大小为 64 MB。不可修改的MemTable将由后台线程落盘成为持久化的SST文件。为了查询的高效性，MemTable需要有序数据结构实现。在RocksDB中MemTable默认以跳表SkipList数据结构实现。
-
-#### SSTFile
-
-SST 是 Static Sorted Table 的缩写。SST 文件中包含从不可变 MemTable 刷盘而来的键值对。由于MemTable始终保持键值有序，落盘后的SSTFile同样也保持有序性。SSTFile是一种基于块的文件格式，会将数据切成固定大小的块（默认为 4KB）进行存储。RocksDB 支持各种压缩 SST 文件的压缩算法，例如 Zlib、BZ2、Snappy、LZ4 或 ZSTD 算法。与 WAL 的记录类似，每个数据块中都包含用于检测数据是否损坏的校验和。每次从磁盘读取数据时，RocksDB 都会使用这些校验和进行校验。
+-  **SSTFile：** SST 是 Static Sorted Table 的缩写。SST 文件中包含从不可变 MemTable 刷盘而来的键值对。由于MemTable始终保持键值有序，落盘后的SSTFile同样也保持有序性。SSTFile是一种基于块的文件格式，会将数据切成固定大小的块（默认为 4KB）进行存储。RocksDB 支持各种压缩 SST 文件的压缩算法，例如 Zlib、BZ2、Snappy、LZ4 或 ZSTD 算法。与 WAL 的记录类似，每个数据块中都包含用于检测数据是否损坏的校验和。每次从磁盘读取数据时，RocksDB 都会使用这些校验和进行校验。
 
 SST 文件主要由数据块和meta块两部分组成。meta块记录了诸如布隆过滤器、索引、压缩词典等非键值对数据信息。虽然 SST 中的键值对是有序的，也并非总能进行二分查找，尤其是数据块被压缩过后，直接访问数据块会使得查找很低效。RocksDB 使用索引来优化查询，存储在紧邻数据块之后的索引块。Index 会把每个 数据块中最后一个 key 映射到它在磁盘上的对应偏移量。同样地，index 中的 key 也是有序的，因此我们可以通过对index的二分搜索快速找到某个 key所对应的块。
 
