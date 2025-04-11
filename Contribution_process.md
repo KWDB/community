@@ -19,6 +19,8 @@ KWDB社区中有[Issue列表](https://gitee.com/organizations/kwdb/issues)，如
 - **认领issue，提交PR**
 
 社区的[Issue列表](https://gitee.com/organizations/kwdb/issues)会持续更新，如您对任何一个open issue感兴趣，可在其评论区添加评论，说明您的修复意向与预计修复时间，系统将尽快反馈该问题分派情况。若认领成功，请开启您的工作，修复后提交PR，并关联对应的issue，PR中包含修复代码及对应测试用例。提交PR前需签署[CLA](https://gitee.com/organizations/kwdb/cla/kwdb-contributor-protocol) （CLA只需在初次提交PR时签署即可）。
+>如果您（您们）是以企业身份给我们提交PR，需要签署[企业贡献者许可协议](CLAs/CCLA.md)，请联系我们，邮件地址是[info@kwdb.org.cn](mailto:info@kwdb.org.cn)
+
 
 - **评审PR**
 

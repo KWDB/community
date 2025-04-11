@@ -48,6 +48,11 @@ KWDB[社区角色](./Community_roles.md)包括：
 ## 如何参与社区贡献
 欢迎您参与KWDB社区贡献，贡献流程详见[贡献流程](./Contribution_process.md)。
 
+### 签署CLA协议
+首次贡献，您需要[签署CLA(Contributor License Agreement)协议](https://gitee.com/organizations/kwdb/cla/kwdb-contributor-protocol)，然后才能参与社区贡献。请放心，在您首次提交PR时，平台会引导您完成CLA的签署。
+
+如果您（您们）是以企业身份给我们提交PR，需要签署[企业贡献者许可协议](CLAs/CCLA.md)，请联系我们，邮件地址是[info@kwdb.org.cn](mailto:info@kwdb.org.cn)
+
 如您在阅读文档、查看代码、修改代码或使用过程中发现的任何bug或需求，欢迎[提交issue](./Issue_submission_guidelines.md)到对应的仓库中。若不确定bug或需求属于哪个仓库，请在community仓库提交issue。
 
 若您有任何关于本社区的意见或建议，请发送邮件至user@kwdb.org.cn。
